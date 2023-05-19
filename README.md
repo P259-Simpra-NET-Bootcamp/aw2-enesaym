@@ -9,9 +9,11 @@ StaffProject dizini içerisinde aşağıdaki komutunu çalıştırınız
 
 ## Temel özellikler :
 -Veri ekleme sırasında validation ile email alanının formatını ve empty durumunu kontrol eder.
+
 -Put ve post methodlarında kullanılan emailin, veritabanında mevcut olup olmadığını kontrol eder.
+
 -First Name ve City degerlerine göre filtreleme yapar. (getBy..)
 
-##Gereksinimler :
+## Gereksinimler :
 -Sql database 
 
